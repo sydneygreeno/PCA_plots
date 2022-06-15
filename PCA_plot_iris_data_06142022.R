@@ -31,7 +31,7 @@ ggbiplot(iris.pca, ellipse=TRUE, groups=iris$Species, obs.scale=1, var.scale=1)
 ggbiplot(iris.pca, ellipse=TRUE, groups=iris$Species, obs.scale=1, var.scale=1) + scale_colour_manual(name="origin", values= c("forest green", "red3", "dark blue")) +
   + ggtitle("PCA model of Iris Dataset") + theme_minimal() + theme(legend.position= "bottom")
 
-*.* linguist-language=R
+
 
 
 
