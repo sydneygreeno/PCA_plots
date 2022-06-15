@@ -39,7 +39,7 @@ resulta$sdev^2 / sum(results$sdev^2)
 #we can also create a scree plot (displays the total variance explained by each PC)
 
 
-
+*.* linguist-language=R
 
 
 
