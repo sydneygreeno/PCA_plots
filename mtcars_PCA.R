@@ -50,7 +50,6 @@ ggbiplot(mtcars.pca, ellipse=TRUE, obs.scale=1, var.scale=1, var.axes=FALSE, lab
 ggbiplot(mtcars.pca, ellipse=TRUE, obs.scale=1, var.scale=1, labels=rownames(mtcars), groups=mtcars.country) + scale_colour_manual(name="Origin", values= c("forest green", "red3", "dark blue")) + ggtitle("PCA of mtcars dataset") + theme_minimal() + theme(legend.position="bottom")
 
 
-*.* linguist-language=R
 
 
 
