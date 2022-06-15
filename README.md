@@ -1,4 +1,4 @@
-# pca_plot_iris_data
+# pca plot iris data
 in accordance with Moffitt Cancer Center as an intern
 # :pencil: general guide for PCA plotting in R
 -iris data set used
